@@ -3,7 +3,7 @@
 
 A modern, responsive Product Management Web App platform built with the PERN stack (PostgreSQL, Express.js, React, Node.js).  
 Features user authentication, product management, and a sleek, professional UI.
-Deployed link:  
+Deployed link:  https://product-management-web-app-nv7j.onrender.com
 
 ---
 
