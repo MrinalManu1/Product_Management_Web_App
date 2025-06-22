@@ -15,6 +15,18 @@ Deployed link:
 - **📱 Responsive Design:** Works seamlessly on all devices.
 - **🛡️ Security:** Password salting and hashing with bcryptjs.
 
+Bot Detection:
+
+Implements basic client-side checks (such as analyzing user agent, browser attributes, and interaction patterns) to identify potential bot activity.
+
+Server-side monitoring and log analysis help detect and mitigate automated traffic that bypasses client-side protections.
+
+Rate Limiting:
+
+Enforces request limits per user/IP to protect against credential stuffing, scraping, and DDoS attacks.
+
+Exceeding the rate limit results in an HTTP 429 (Too Many Requests) response, effectively blocking excessive or suspicious activity
+
 ---
 
 ## 🛠️ Tech Stack
