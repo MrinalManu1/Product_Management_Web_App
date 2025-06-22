@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # 🛍️ PERN Stack Product Management Web App
 
 A modern, responsive Product Management Web App platform built with the PERN stack (PostgreSQL, Express.js, React, Node.js).  
 Features user authentication, product management, and a sleek, professional UI.
-Deployed link:  https://modern-e-commerce-site.onrender.com 
+Deployed link:  
 
 ---
 
@@ -32,7 +32,7 @@ Deployed link:  https://modern-e-commerce-site.onrender.com
 
 ## 📂 Project Structure
 
-![image](https://github.com/user-attachments/assets/b97df068-2446-435a-90db-7e1a90be1a02)
+![alt text](image.png)
 
 
 
@@ -81,18 +81,20 @@ text
 
 ## 🖼️ Screenshots
 
-![image](https://github.com/user-attachments/assets/25ab8329-02c5-49b9-87a1-43701e102044)
+![alt text](image-1.png)
 
 *Homepage of the Product_Management_Web_App *
 
-![image](https://github.com/user-attachments/assets/f726b92e-4829-4969-9c22-326fc9fcfd4f)
+ ![alt text](image-3.png)
 
 *User login screen*
 
-![image](https://github.com/user-attachments/assets/44ecda71-fc7d-4184-8122-a85f4cf69095)
+![alt text](image-2.png)
+
 
 *Admin product management interface*
 
+![alt text](image-4.png)
 ---
 
 ## 📝 Notes
