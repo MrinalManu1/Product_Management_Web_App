@@ -45,7 +45,7 @@ Exceeding the rate limit results in an HTTP 429 (Too Many Requests) response, ef
 
 ## 📂 Project Structure
 
-![alt text](image.png)
+![alt text](</frontend/public/screenshots/image-1.png>)
 
 
 
@@ -94,20 +94,20 @@ text
 
 ## 🖼️ Screenshots
 
-![alt text](image-1.png)
+![alt text](</frontend/public/screenshots/image-2.png>)
 
 *Homepage of the Product_Management_Web_App *
 
- ![alt text](image-3.png)
+
 
 *User login screen*
 
-![alt text](image-2.png)
+![alt text](</frontend/public/screenshots/image-3.png>)
 
 
 *Admin product management interface*
+![alt text](</frontend/public/screenshots/image-4.png>)
 
-![alt text](image-4.png)
 ---
 
 ## 📝 Notes
